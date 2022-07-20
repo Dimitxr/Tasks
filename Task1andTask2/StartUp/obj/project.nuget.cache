@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3jkxnV4NwAYoFUtShyLKqAhJcn9Mh2iZNwjQY641OK+fDTCeMS1Q3kWCX6S69izsk4MoaYwLpxlx8O14g9+UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimit\\source\\repos\\Task1andTask2\\StartUp\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
